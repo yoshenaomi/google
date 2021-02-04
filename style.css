@@ -1,0 +1,31 @@
+footer {
+	background: #f2f2f2;
+}
+footer h3 {
+	color: rgba(0,0,0, 0.54);
+	font-size: 20px;
+	line-height: 20px;
+	font-weight: 400;
+	padding-left: 29px;
+	border: 1px solid #eee;
+}
+footer a {
+	color: #5f6368;
+	display: inline-block;
+	padding: 12px 11.5px;
+	font-size: 15px;
+}
+footer a:hover {
+	text-decoration: underline;
+}
+.foot {
+	border-top: 1px solid #ddd;
+	display: flex;
+}
+.ter1 {
+	padding-left: 18.7px;
+	flex: 1;
+}
+.ter2 {
+	padding-right: 20px;
+}
